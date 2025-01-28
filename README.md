@@ -71,11 +71,3 @@ Let's keep our inboxes spam-free and our communications secure.
 
 ---
 
-## Author
-
-- [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
-
----
-
-## Reference
- - [Oasis Infobyte](https://oasisinfobyte.com/)
